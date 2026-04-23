@@ -1,0 +1,9 @@
+Dataset: BIDMC Congestive Heart Failure Database
+Source: PhysioNet
+Description:
+- 15 CHF patients
+- Around 20 hours ECG per patient
+- 250 Hz sampling rate
+
+Note:
+Raw dataset files are not uploaded in this repository. Please access the dataset from PhysioNet according to its usage terms.
