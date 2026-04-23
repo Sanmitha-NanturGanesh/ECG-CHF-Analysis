@@ -1,0 +1,4 @@
+Key reported results:
+- Clustering identified distinct HRV variability groups
+- Isolation Forest flagged anomalous ECG behavior
+- XGBoost achieved best performance with approximately 94% accuracy
